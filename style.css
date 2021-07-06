@@ -13,6 +13,9 @@ h1{
     margin-bottom: 120px;
    
 }
+.half{
+    margin-bottom: 100px;
+}
 .half-site img{
     width: 83%;
 }
@@ -78,3 +81,23 @@ h1{
 .again-image{
     border-radius: 30px;
 }
+ul {
+    background-color: dodgerblue;
+  }
+  ul{
+      margin: 0;
+      padding: 0;
+      text-align: left;
+  }
+  ul li a{
+      text-decoration: none;
+  }
+  ul li{
+      display: inline-block;
+      padding: 10px 50px;
+  }
+  .b{
+      color: white;
+  }
+  
+  
