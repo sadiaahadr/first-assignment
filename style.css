@@ -21,6 +21,7 @@ h1{
 }
 .first-margin{
     margin-left: 5%;
+    margin-right: 5%;
 
 }
 .vision{
@@ -59,8 +60,8 @@ h1{
     padding-bottom: 25px;
 }
 .box-item{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
     color: darkslategray;
     text-align: justify;
     width: 25%;
