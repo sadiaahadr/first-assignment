@@ -54,7 +54,7 @@ h1{
 .text{
     text-align: justify;
 }
-.last-option{
+.footer-option{
     background-color: paleturquoise;
     padding-top: 5px;
     padding-bottom: 25px;
@@ -88,7 +88,7 @@ ul {
   ul{
       margin: 0;
       padding: 0;
-      text-align: left;
+      text-align: center;
   }
   ul li a{
       text-decoration: none;
@@ -100,8 +100,10 @@ ul {
   .b{
       color: white;
   }
-    .a{
-        text-align: left;
+  ul li:hover{
+      background-color: azure;
+  }
+    ul li:hover .b{
+        color: aqua;
     }
-  
   
