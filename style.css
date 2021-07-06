@@ -39,6 +39,7 @@ h1{
 .middle{
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
+    
 }
 .design{
     text-align: center;
@@ -53,4 +54,27 @@ h1{
     background-color: paleturquoise;
     padding-top: 5px;
     padding-bottom: 25px;
+}
+.box-item{
+    margin-left: 5%;
+    margin-right: 5%;
+    color: darkslategray;
+    text-align: justify;
+    width: 25%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 65px;
+    border-radius: 36px;
+    box-shadow: 2px 2px 25px gray;
+}
+.vision-first{
+    width: 100%;
+}
+
+.imaged{
+    padding-top: 30px;
+
+}
+.again-image{
+    border-radius: 30px;
 }
